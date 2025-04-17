@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1744809848 source:d:\film\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"graphics.h"
+	"defs.h"
+
+1744731837 d:\film\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"defs.h"
+	<vector>
+
+1744819294 d:\film\defs.h
+
